@@ -10,7 +10,7 @@
 
 📫 How to reach me **djamal.bekhiekh@univ-constantine2.dz**  <br>
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/djamal-bekhiekh) 
 
 # 💻Tech Stack
@@ -19,6 +19,23 @@
 ![](https://github-readme-stats.vercel.app/api?username=djamal-soft&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djamal-soft&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djamal-soft&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊My Projects :
+
+- Version 4 of emploitic ([Larvel](https://laravel.com/), [Node.js](https://nodejs.org/), [Nestjs](https://nestjs.com/), [ArangoDb](https://www.arangodb.com/), [Docker](https://docker.com/)) <br> <br>
+[<img src="https://www.emploitic.com/images/cpsite/emploitic/logo-emploitic.jpg" alt="emploitic" width="470"/>](https://emploitic.com)
+
+
+
+- Residence Management Project ([Larvel](https://laravel.com/), [angular](https://angular.io/)) <br> <br>
+[![Residence Management Project](https://img.youtube.com/vi/0fycsJNu6AM/0.jpg)](https://www.youtube.com/watch?v=0fycsJNu6AM)
+
+- Handyman Finder Project ([Larvel](https://laravel.com/))<br> <br>
+[![RHandyman Finder Project](https://img.youtube.com/vi/oDoFOH89XUM/0.jpg)](https://www.youtube.com/watch?v=oDoFOH89XUM)
+
+- success academy project ([Larvel](https://laravel.com/), [angular](https://angular.io/), [angular material](https://material.angular.io/)) <br> <br>
+[![Rsuccess academy project](https://img.youtube.com/vi/pFmYCUjou6g/0.jpg)](https://www.youtube.com/watch?v=pFmYCUjou6g)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
