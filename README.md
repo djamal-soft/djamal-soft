@@ -22,7 +22,7 @@
 
 # 📊My Projects :
 
-- Version 4 of emploitic ([Larvel](https://laravel.com/), [Node.js](https://nodejs.org/), [Nestjs](https://nestjs.com/), [ArangoDb](https://www.arangodb.com/), [Docker](https://docker.com/)) <br> <br>
+- Version 4 of emploitic ([Laravel](https://laravel.com/), [Node.js](https://nodejs.org/), [Nestjs](https://nestjs.com/), [ArangoDb](https://www.arangodb.com/), [Docker](https://docker.com/)) <br> <br>
 [<img src="https://www.emploitic.com/images/cpsite/emploitic/logo-emploitic.jpg" alt="emploitic" width="470"/>](https://emploitic.com)
 
 
